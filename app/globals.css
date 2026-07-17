@@ -299,7 +299,7 @@ button {
   position: fixed;
   z-index: 20;
   top: max(14px, env(safe-area-inset-top));
-  right: max(14px, env(safe-area-inset-right));
+  left: max(14px, env(safe-area-inset-left));
   height: 38px;
   padding: 0 13px;
   background: rgba(12, 10, 30, 0.7);
