@@ -21,14 +21,20 @@ test("contains a complete multilingual card index", async () => {
 test("keeps reviewed Chinese OCR corrections", async () => {
   const data = JSON.parse(await readFile(new URL("app/card-data.json", root), "utf8"));
   const expectedNames = {
+    "010": "黄金指南",
+    "011": "黄金天平",
+    "012": "黄金辞典",
     "022": "机老虎",
     "023": "即兴故事书",
     "026": "七个小矮人",
     "037": "初出茅庐的运动员",
     "038": "初出茅庐的艺术家",
     "039": "初出茅庐的政治家",
+    "040": "初出茅庐的音乐家",
     "041": "初出茅庐的飞行员",
     "043": "初出茅庐的赌徒",
+    "046": "金粉少女",
+    "049": "掌心人鱼",
     "053": "白色甲虫王",
     "059": "即时外语学校",
     "060": "久违的交货",
@@ -50,6 +56,10 @@ test("keeps reviewed Chinese OCR corrections", async () => {
   }
   assert.doesNotMatch(data.find((item) => item.number === "066").zh.name, /^66/);
   assert.equal(data.find((item) => item.number === "080").zh.name, "悬浮石");
+  for (const number of ["010", "011", "012", "046"]) {
+    const text = JSON.stringify(data.find((item) => item.number === number).zh);
+    assert.doesNotMatch(text, /黄全|全粉|全光/, `${number} still contains OCR substitutions for 金`);
+  }
 });
 
 test("contains 100 full images and 100 thumbnails for each language", async () => {
