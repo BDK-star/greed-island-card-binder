@@ -1,0 +1,1702 @@
+[
+    {
+        "number":  "000",
+        "rank":  "SS",
+        "limit":  "1",
+        "zh":  {
+                   "name":  "统治者的祝福",
+                   "effect":  "作为赢得比赛的奖品而赠送的城堡以及拥有一万人口的城镇其中的居民将按照您发布的任何法律和命令生活"
+               },
+        "ja":  {
+                   "name":  "支配者の祝福",
+                   "effect":  "クイズ優勝のほうびとして城が与えられる。人口１万人の城下町のおまけ付き。この町の人々はあなたの作る法律や指令に従い生活する。"
+               },
+        "en":  {
+                   "name":  "Ruler\u0027s Blessing",
+                   "effect":  "Castle is given as a reward for winning quiz. Bonus is a city with 10,000 population. People of this town live in accordance to directives and rules you set."
+               }
+    },
+    {
+        "number":  "001",
+        "rank":  "SS",
+        "limit":  "3",
+        "zh":  {
+                   "name":  "一坪的密林",
+                   "effect":  "被称为\"山神花园\"的巨型森林的入口处栖息着许多独特的特有物种他们都很温顺和友好"
+               },
+        "ja":  {
+                   "name":  "一坪の密林",
+                   "effect":  "「山神の庭」と呼ばれる巨大な森への入り口。この森にしかいない固有種のみが数多く生息する。どの動物も人によくなつく。"
+               },
+        "en":  {
+                   "name":  "Patch of Forest",
+                   "effect":  "An entrance to the huge forest known as the \"Garden of Yamagami\". The forest is inhabited by many species of animal, which can all become emotionally attached to humans."
+               }
+    },
+    {
+        "number":  "002",
+        "rank":  "SS",
+        "limit":  "3",
+        "zh":  {
+                   "name":  "一坪的海岸线",
+                   "effect":  "一个叫做\"海神居所\"的洞穴的入口洞穴在每次访问时都会改变其路径使入侵者感到困惑"
+               },
+        "ja":  {
+                   "name":  "Plot of Beach",
+                   "effect":  "The entrance to the undersea cave called \"Corner of the Sea-Gods House\". This cave baffles intruders by changing its appearance at each visit."
+               },
+        "en":  {
+                   "name":  "Plot of Beach",
+                   "effect":  "The entrance to the undersea cave called \"Corner of the Sea-Gods House\". This cave baffles intruders by changing its appearance at each visit."
+               }
+    },
+    {
+        "number":  "003",
+        "rank":  "A",
+        "limit":  "17",
+        "zh":  {
+                   "name":  "永恒之水",
+                   "effect":  "一个不断流出纯净水的罐子（每天1440升）"
+               },
+        "ja":  {
+                   "name":  "湧き水の壺",
+                   "effect":  "The vase continuously gives clean water. It can give 1440 litres clean water a day."
+               },
+        "en":  {
+                   "name":  "Pitcher of Eternal Water",
+                   "effect":  "The vase continuously gives clean water. It can give 1440 litres clean water a day."
+               }
+    },
+    {
+        "number":  "004",
+        "rank":  "A",
+        "limit":  "15",
+        "zh":  {
+                   "name":  "美肌温泉",
+                   "effect":  "治愈任何肌肤问题的温泉每天沐浴半小时肌肤如婴儿般柔滑"
+               },
+        "ja":  {
+                   "name":  "美肌温泉",
+                   "effect":  "A hot spring that solves the worries about beautiful skin. Take a bath 30 minutes a day to have skin as smooth like a baby."
+               },
+        "en":  {
+                   "name":  "Skin Care Hot Springs",
+                   "effect":  "A hot spring that solves the worries about beautiful skin. Take a bath 30 minutes a day to have skin as smooth like a baby."
+               }
+    },
+    {
+        "number":  "005",
+        "rank":  "S",
+        "limit":  "8",
+        "zh":  {
+                   "name":  "消失的洞",
+                   "effect":  "进入这个空洞你会被传送到国内一个荒凉的地方您无需花任何钱就可以回到开始的地方"
+               },
+        "ja":  {
+                   "name":  "神隠しの洞",
+                   "effect":  "When you come out of this hollow, you are in a place with no population. Somewhere in the country. It is possible to return through without needing to spend any money for some reason."
+               },
+        "en":  {
+                   "name":  "Spirited Away Hollow",
+                   "effect":  "When you come out of this hollow, you are in a place with no population. Somewhere in the country. It is possible to return through without needing to spend any money for some reason."
+               }
+    },
+    {
+        "number":  "006",
+        "rank":  "A",
+        "limit":  "15",
+        "zh":  {
+                   "name":  "酒泉",
+                   "effect":  "汲取这个泉的水一个周后便会变成一种口味绝妙品质非凡的随机酒类"
+               },
+        "ja":  {
+                   "name":  "酒生みの泉",
+                   "effect":  "Add water to the fountain, and it will turn into liquor in one week. The type of liquor is random, but will be taste exquisite."
+               },
+        "en":  {
+                   "name":  "Liquor Spring",
+                   "effect":  "Add water to the fountain, and it will turn into liquor in one week. The type of liquor is random, but will be taste exquisite."
+               }
+    },
+    {
+        "number":  "007",
+        "rank":  "S",
+        "limit":  "10",
+        "zh":  {
+                   "name":  "怀胎石",
+                   "effect":  "携带这块石头（重7磅）一个月即使您是男性您也会\u0027不孕您可以通过女石或男石来选择宝宝的性别"
+               },
+        "ja":  {
+                   "name":  "身重の石",
+                   "effect":  "If held without releasing for one month, this 3KG stone will make the holder pregnant regardless of being male or female. There are two types of stones, for whether you want to see a male or female."
+               },
+        "en":  {
+                   "name":  "Pregnancy Stones",
+                   "effect":  "If held without releasing for one month, this 3KG stone will make the holder pregnant regardless of being male or female. There are two types of stones, for whether you want to see a male or female."
+               }
+    },
+    {
+        "number":  "008",
+        "rank":  "S",
+        "limit":  "10",
+        "zh":  {
+                   "name":  "奇异池",
+                   "effect":  "在这个池塘里放一条鱼第二天就会增加一条您可以在这个池塘中饲养任何的鱼"
+               },
+        "ja":  {
+                   "name":  "不思議ヶ池",
+                   "effect":  "Another fish will appear the next day after releasing a pet fish into this pond. The pond can keep together fish from any type of water."
+               },
+        "en":  {
+                   "name":  "Mystery Pond",
+                   "effect":  "Another fish will appear the next day after releasing a pet fish into this pond. The pond can keep together fish from any type of water."
+               }
+    },
+    {
+        "number":  "009",
+        "rank":  "S",
+        "limit":  "10",
+        "zh":  {
+                   "name":  "丰收之树",
+                   "effect":  "结出各种果实的树不管收获多少第二天又会满满当当水果的种类和数量是随机的"
+               },
+        "ja":  {
+                   "name":  "豊作の樹",
+                   "effect":  "Every tree bears fruit. The fruit tree will be full again the next day when you harvest, no matter how. The type and number of fruit is random."
+               },
+        "en":  {
+                   "name":  "Tree of Plenty",
+                   "effect":  "Every tree bears fruit. The fruit tree will be full again the next day when you harvest, no matter how. The type and number of fruit is random."
+               }
+    },
+    {
+        "number":  "010",
+        "rank":  "A",
+        "limit":  "20",
+        "zh":  {
+                   "name":  "黄全指南",
+                   "effect":  "一份旅行指南列出了持有者可以在何时何地遇到喜欢的异性"
+               },
+        "ja":  {
+                   "name":  "黄金るるぶ",
+                   "effect":  "A magazine of travel information. It has posted a number, place and time to meet the opposite sex of preference of the owner."
+               },
+        "en":  {
+                   "name":  "Golden Guidebook",
+                   "effect":  "A magazine of travel information. It has posted a number, place and time to meet the opposite sex of preference of the owner."
+               }
+    },
+    {
+        "number":  "011",
+        "rank":  "B",
+        "limit":  "30",
+        "zh":  {
+                   "name":  "黄全天平",
+                   "effect":  "当面临两个选项时这个天平会告诉您哪个对您的未来更好"
+               },
+        "ja":  {
+                   "name":  "黄金天秤",
+                   "effect":  "\"Which one do you take?\" When the scales are faced with 2 choices, they will tip in favor of your future."
+               },
+        "en":  {
+                   "name":  "Golden Scales",
+                   "effect":  "\"Which one do you take?\" When the scales are faced with 2 choices, they will tip in favor of your future."
+               }
+    },
+    {
+        "number":  "012",
+        "rank":  "S",
+        "limit":  "10",
+        "zh":  {
+                   "name":  "黄全辞典",
+                   "effect":  "每天你都可以从中发现一些闪着全光的词记住这些词因为它们第二天会派上用场"
+               },
+        "ja":  {
+                   "name":  "Golden Dictionary",
+                   "effect":  "The dictionary tells special words to the owner. Open the dictionary to find the meaning of the word. The words that appear gold, will always be useful the next day."
+               },
+        "en":  {
+                   "name":  "Golden Dictionary",
+                   "effect":  "The dictionary tells special words to the owner. Open the dictionary to find the meaning of the word. The words that appear gold, will always be useful the next day."
+               }
+    },
+    {
+        "number":  "013",
+        "rank":  "A",
+        "limit":  "20",
+        "zh":  {
+                   "name":  "运气存折",
+                   "effect":  "日常生活中的运气不要动用可以累积起来变现成钱"
+               },
+        "ja":  {
+                   "name":  "幸運通帳",
+                   "effect":  "Without using good luck everyday, this passbook allows you to draw out money."
+               },
+        "en":  {
+                   "name":  "Luck Bankbook",
+                   "effect":  "Without using good luck everyday, this passbook allows you to draw out money."
+               }
+    },
+    {
+        "number":  "014",
+        "rank":  "B",
+        "limit":  "22",
+        "zh":  {
+                   "name":  "断缘剪刀",
+                   "effect":  "用这些剪刀剪下您不想看到的人的照片您就再也见不到他们了注童它会影响图片中的每个人（除了你自己）"
+               },
+        "ja":  {
+                   "name":  "縁切り鋏",
+                   "effect":  "If you cut out people you don\u0027t want to meet twice off pictures, It becomes unnescessary to meet them again. It effects everyone in the picture (except the user), so care must be taken."
+               },
+        "en":  {
+                   "name":  "Connection Severing Scissors",
+                   "effect":  "If you cut out people you don\u0027t want to meet twice off pictures, It becomes unnescessary to meet them again. It effects everyone in the picture (except the user), so care must be taken."
+               }
+    },
+    {
+        "number":  "015",
+        "rank":  "S",
+        "limit":  "10",
+        "zh":  {
+                   "name":  "异想天开的魔人",
+                   "effect":  "这个精灵会满足你三个愿望但你需要提出1000个明显不同的愿望他会从中选择三个实现（本质上相差不多的愿望不能提出）"
+               },
+        "ja":  {
+                   "name":  "Fickle Genie",
+                   "effect":  "This majin will grant 3 wishes. However, citing 1000 different wishes you hope for, the genie will choose freely from them. (\"Give me 10 billion\" and changing its value, e.g. 10.1 bllion, is not possible.)."
+               },
+        "en":  {
+                   "name":  "Fickle Genie",
+                   "effect":  "This majin will grant 3 wishes. However, citing 1000 different wishes you hope for, the genie will choose freely from them. (\"Give me 10 billion\" and changing its value, e.g. 10.1 bllion, is not possible.)."
+               }
+    },
+    {
+        "number":  "016",
+        "rank":  "S",
+        "limit":  "6",
+        "zh":  {
+                   "name":  "精灵王的忠告",
+                   "effect":  "精灵之王会在您缺少什么或应该补救什么时为您提供温和而恰当的建议烦人的是他想出现的时候就会出现"
+               },
+        "ja":  {
+                   "name":  "妖精王の忠告",
+                   "effect":  "Any knowledge you don\u0027t have enough of, he will give you good, exact advice to fix it. May appear occasionally and so can be annoying."
+               },
+        "en":  {
+                   "name":  "Fairy King\u0027s Advice",
+                   "effect":  "Any knowledge you don\u0027t have enough of, he will give you good, exact advice to fix it. May appear occasionally and so can be annoying."
+               }
+    },
+    {
+        "number":  "017",
+        "rank":  "SS",
+        "limit":  "3",
+        "zh":  {
+                   "name":  "大天使的气息",
+                   "effect":  "她可以治愈一个人的所有伤口和疾病使那个人完全恢复健康但她只会出现一次"
+               },
+        "ja":  {
+                   "name":  "Angel\u0027s Breath",
+                   "effect":  "She cures one person of all wounds and ills, restoring them to perfect health. She will only appear once."
+               },
+        "en":  {
+                   "name":  "Angel\u0027s Breath",
+                   "effect":  "She cures one person of all wounds and ills, restoring them to perfect health. She will only appear once."
+               }
+    },
+    {
+        "number":  "018",
+        "rank":  "A",
+        "limit":  "18",
+        "zh":  {
+                   "name":  "小恶魔的媚眼",
+                   "effect":  "当她向你抛媚眼时你会体验到无法想象的高潮感她会出现多次请小心那会让人上瘾"
+               },
+        "ja":  {
+                   "name":  "小悪魔のウインク",
+                   "effect":  "A person who has received this wink can taste the sense of climax not of this world. Can appear any number of time but attention to addiction."
+               },
+        "en":  {
+                   "name":  "Imp\u0027s Wink",
+                   "effect":  "A person who has received this wink can taste the sense of climax not of this world. Can appear any number of time but attention to addiction."
+               }
+    },
+    {
+        "number":  "019",
+        "rank":  "A",
+        "limit":  "13",
+        "zh":  {
+                   "name":  "游魂枕",
+                   "effect":  "睡在这个枕头上你的灵魂可以随意游荡但如果你在24小时内不回到你的身体你就会变成真正的鬼魂"
+               },
+        "ja":  {
+                   "name":  "遊魂枕",
+                   "effect":  "It is possible for astral projection whilst sleeping on this pillow. However, it becomes a real ghost If you do not return to the body within 24 hours."
+               },
+        "en":  {
+                   "name":  "Poltergeist Pillow",
+                   "effect":  "It is possible for astral projection whilst sleeping on this pillow. However, it becomes a real ghost If you do not return to the body within 24 hours."
+               }
+    },
+    {
+        "number":  "020",
+        "rank":  "B",
+        "limit":  "30",
+        "zh":  {
+                   "name":  "情绪钟",
+                   "effect":  "这个时钟可以设定您当前的心态把它转到中午你会保持完美的宁静因此您可以根据情况调整自己的情绪N01FORSALt"
+               },
+        "ja":  {
+                   "name":  "心度計",
+                   "effect":  "A clock that will measure your overall mental state. You return to the undisturbed state of mind when at 12 o\u0027clock. You can control your mind state by TPO."
+               },
+        "en":  {
+                   "name":  "Mood Clock",
+                   "effect":  "A clock that will measure your overall mental state. You return to the undisturbed state of mind when at 12 o\u0027clock. You can control your mind state by TPO."
+               }
+    },
+    {
+        "number":  "021",
+        "rank":  "B",
+        "limit":  "27",
+        "zh":  {
+                   "name":  "X射线眼镜",
+                   "effect":  "您可以看透事物调整刻度允许您设置X射线深度唯一看不透的就是魔法都市的咒语卡片袋子"
+               },
+        "ja":  {
+                   "name":  "スケルトンメガネ",
+                   "effect":  "Glasses look through things. You can strengthen or weaken to the view. Can only not see through a bag of spell cards from the magic city."
+               },
+        "en":  {
+                   "name":  "X-Ray Goggles",
+                   "effect":  "Glasses look through things. You can strengthen or weaken to the view. Can only not see through a bag of spell cards from the magic city."
+               }
+    },
+    {
+        "number":  "022",
+        "rank":  "A",
+        "limit":  "22",
+        "zh":  {
+                   "name":  "机老虎",
+                   "effect":  "濒临灭绝的珍兽，有往四维口袋里塞东西的习惯。你永远不知道它能捡到什么样的宝物。"
+               },
+        "ja":  {
+                   "name":  "トラエモン",
+                   "effect":  "An endangered species. It has the trait of stuffing things in its belly pocket. Multiple Ultra-Valuable items could be found inside."
+               },
+        "en":  {
+                   "name":  "Toraemon",
+                   "effect":  "An endangered species. It has the trait of stuffing things in its belly pocket. Multiple Ultra-Valuable items could be found inside."
+               }
+    },
+    {
+        "number":  "023",
+        "rank":  "B",
+        "limit":  "30",
+        "zh":  {
+                   "name":  "即兴故事书",
+                   "effect":  "一本每次打开都会向您展示不同故事的书。如果您想留在同一个故事上，请使用随附的特殊书签。"
+               },
+        "ja":  {
+                   "name":  "アドリブブック",
+                   "effect":  "A book where you can enjoy a different story every time. Watch out if you want to interrupt the reading because it will open a new story if you don\u0027t use the bookmark provided!."
+               },
+        "en":  {
+                   "name":  "Tome of a Thousand Tales",
+                   "effect":  "A book where you can enjoy a different story every time. Watch out if you want to interrupt the reading because it will open a new story if you don\u0027t use the bookmark provided!."
+               }
+    },
+    {
+        "number":  "024",
+        "rank":  "A",
+        "limit":  "20",
+        "zh":  {
+                   "name":  "假想电视机",
+                   "effect":  "使用随附的遥控器输入假设情况这台电视将为您播放30小时的可能性纪录片你也可以录音"
+               },
+        "ja":  {
+                   "name":  "もしもテレビ",
+                   "effect":  "If you write a sentence (if...) in the included remote, a broadcast of a documentary in the format 1–30 hours is the result. Can also be recorded."
+               },
+        "en":  {
+                   "name":  "Hypothetical T.V.",
+                   "effect":  "If you write a sentence (if...) in the included remote, a broadcast of a documentary in the format 1–30 hours is the result. Can also be recorded."
+               }
+    },
+    {
+        "number":  "025",
+        "rank":  "B",
+        "limit":  "30",
+        "zh":  {
+                   "name":  "风险骰子",
+                   "effect":  "一个二十面骰子有一面大凶和十九面大吉当你投出大吉时就会有很幸运的事发生但投出大凶将要承担之前所有大吉所累计相等的不幸"
+               },
+        "ja":  {
+                   "name":  "Risky Dice",
+                   "effect":  "An icosahedron dice. 1 surface is \u0027Very Bad Luck\u0027. 19 surfaces are \u0027Very Good Luck\u0027. Very good things happens when \"Daikichi\" pays. Everything \"Daikichi\" pays will add to great misfortune when \"Daikyō\" pays!."
+               },
+        "en":  {
+                   "name":  "Risky Dice",
+                   "effect":  "An icosahedron dice. 1 surface is \u0027Very Bad Luck\u0027. 19 surfaces are \u0027Very Good Luck\u0027. Very good things happens when \"Daikichi\" pays. Everything \"Daikichi\" pays will add to great misfortune when \"Daikyō\" pays!."
+               }
+    },
+    {
+        "number":  "026",
+        "rank":  "A",
+        "limit":  "20",
+        "zh":  {
+                   "name":  "七个小矮人",
+                   "effect":  "他们可以做任何你能做的工作。只要你睡着，他们就会工作；他们不能做任何超出你能力范围的事情。"
+               },
+        "ja":  {
+                   "name":  "７人の働く小人",
+                   "effect":  "Only while the master is sleeping, the dwarves work instead. However, it does not respond to abilities more than the master."
+               },
+        "en":  {
+                   "name":  "Night Shift Dwarves",
+                   "effect":  "Only while the master is sleeping, the dwarves work instead. However, it does not respond to abilities more than the master."
+               }
+    },
+    {
+        "number":  "027",
+        "rank":  "B",
+        "limit":  "25",
+        "zh":  {
+                   "name":  "刷脸通行卷",
+                   "effect":  "有了这些通行卷您可以去任何地方共1000张"
+               },
+        "ja":  {
+                   "name":  "Book of V.I.P Passes",
+                   "effect":  "It is possible to enter a place by passing over a ticket. 1000 pieces."
+               },
+        "en":  {
+                   "name":  "Book of V.I.P Passes",
+                   "effect":  "It is possible to enter a place by passing over a ticket. 1000 pieces."
+               }
+    },
+    {
+        "number":  "028",
+        "rank":  "B",
+        "limit":  "27",
+        "zh":  {
+                   "name":  "反复无常控制器",
+                   "effect":  "一个遥控器可以操纵某人对他人的十种情绪强度等级为1一10（你无法控制人们对你的感觉）"
+               },
+        "ja":  {
+                   "name":  "顔パス回数券",
+                   "effect":  "You can operate an intensity of 10 specific feelings of others towards other. (cannot be used to change feelings towards you)."
+               },
+        "en":  {
+                   "name":  "Capricious Remote",
+                   "effect":  "You can operate an intensity of 10 specific feelings of others towards other. (cannot be used to change feelings towards you)."
+               }
+    },
+    {
+        "number":  "029",
+        "rank":  "A",
+        "limit":  "20",
+        "zh":  {
+                   "name":  "强制预订票",
+                   "effect":  "将任何市售产品的名称写在凭证上无论其稀缺性如何您都可以保证获得它（您仍然需要付费）一共1000张"
+               },
+        "ja":  {
+                   "name":  "強制予約券",
+                   "effect":  "Come to hand whenever you write a product of any brand name on this ticket. It is not affected by the commercial availability. You have to pay the price of course! 1000 pieces."
+               },
+        "en":  {
+                   "name":  "Pre-Order Vouchers",
+                   "effect":  "Come to hand whenever you write a product of any brand name on this ticket. It is not affected by the commercial availability. You have to pay the price of course! 1000 pieces."
+               }
+    },
+    {
+        "number":  "030",
+        "rank":  "B",
+        "limit":  "21",
+        "zh":  {
+                   "name":  "拜托坐垫",
+                   "effect":  "把一个人放在这个垫子上他会为你做一件事只要是他力所能及的事情NO亻FOR5"
+               },
+        "ja":  {
+                   "name":  "コネクッション",
+                   "effect":  "If you ask someone to sit on this cushion, they will listen to your plead only once. Cannot do anything that is beyond the capabilities of the person sitting."
+               },
+        "en":  {
+                   "name":  "Favor Cushion",
+                   "effect":  "If you ask someone to sit on this cushion, they will listen to your plead only once. Cannot do anything that is beyond the capabilities of the person sitting."
+               }
+    },
+    {
+        "number":  "031",
+        "rank":  "S",
+        "limit":  "13",
+        "zh":  {
+                   "name":  "致死者的明信片",
+                   "effect":  "将这张明信片寄给已故的人您将在第二天收到回复一共1000张"
+               },
+        "ja":  {
+                   "name":  "死者への往復葉書",
+                   "effect":  "If you leave a message and send a postcard to a dead person, a reply is written on the card the next day. 1000 pieces."
+               },
+        "en":  {
+                   "name":  "Double Postcard to the Dead",
+                   "effect":  "If you leave a message and send a postcard to a dead person, a reply is written on the card the next day. 1000 pieces."
+               }
+    },
+    {
+        "number":  "032",
+        "rank":  "B",
+        "limit":  "30",
+        "zh":  {
+                   "name":  "黄莺糖",
+                   "effect":  "吃下这种糖果可以让你发出任何尸音效果会一直持续到您下一次摄取某些东西为止每包50颗糖果一套10包"
+               },
+        "ja":  {
+                   "name":  "ウグイスキャンディ",
+                   "effect":  "It is possible to eat the candy and, until consuming anything, freely speak in any voice. 50 Tablets 1 bag, 10 bags set."
+               },
+        "en":  {
+                   "name":  "Parrot Candy",
+                   "effect":  "It is possible to eat the candy and, until consuming anything, freely speak in any voice. 50 Tablets 1 bag, 10 bags set."
+               }
+    },
+    {
+        "number":  "033",
+        "rank":  "S",
+        "limit":  "13",
+        "zh":  {
+                   "name":  "荷尔蒙曲奇",
+                   "effect":  "吃了这种糖后你的性别会在24小时内暂时改变一套10盒盒20个饼干每"
+               },
+        "ja":  {
+                   "name":  "ホルモンクッキー",
+                   "effect":  "Eat this cookie to change sex, restricted to 24-hours. 20 per box. 10 box set."
+               },
+        "en":  {
+                   "name":  "Hormone Cookies",
+                   "effect":  "Eat this cookie to change sex, restricted to 24-hours. 20 per box. 10 box set."
+               }
+    },
+    {
+        "number":  "034",
+        "rank":  "B",
+        "limit":  "30",
+        "zh":  {
+                   "name":  "调查问卷",
+                   "effect":  "写下关于自己的各种问题交给某人他会如实回答所有问题可重复使用"
+               },
+        "ja":  {
+                   "name":  "なんでもアンケート",
+                   "effect":  "この用紙にあなたに関する様々な質問を書いて人に渡すと、渡された人は全ての質問に正直に答えてくれる。何度でも使える。"
+               },
+        "en":  {
+                   "name":  "Universal Survey",
+                   "effect":  "If you pass to a person the paper you have written various questions about yourself on, who you passed too will have answered them all honestly to all questions. Can be used many times."
+               }
+    },
+    {
+        "number":  "035",
+        "rank":  "S",
+        "limit":  "6",
+        "zh":  {
+                   "name":  "变色龙猫",
+                   "effect":  "濒危物种一旦被驯服它可以变成任何动物然而它的质量保持不变因此它会是一头小象或一只大巳釓"
+               },
+        "ja":  {
+                   "name":  "カメレオンキャット",
+                   "effect":  "絶滅寸前の珍獣。飼いならせば様々な動物に変身してくれる。ただし体積を変化させることは出来ないので、小さな象や大きなハムスターになってしまうが・・・。"
+               },
+        "en":  {
+                   "name":  "Chameleon Cat",
+                   "effect":  "A rare, endangered animal. It can turn into various animals once tamed. However, since it is not able to alter its volume, it stays the same size, so it will be a small elephant or a big hamster."
+               }
+    },
+    {
+        "number":  "036",
+        "rank":  "S",
+        "limit":  "10",
+        "zh":  {
+                   "name":  "回收室",
+                   "effect":  "把破损的东西放在这个房间里24小时后就会修好如新时间未到不得开门"
+               },
+        "ja":  {
+                   "name":  "リサイクルルーム",
+                   "effect":  "この部屋に壊れた物を入れておくと、24時間後には修理され、新品同様になっている。ただし絶対に時間が来るまで扉を開けてはならない。"
+               },
+        "en":  {
+                   "name":  "Recycling Room",
+                   "effect":  "If you put what you broke in this room, 24-hours later it will be good as new. However, you should not open the door until the full time."
+               }
+    },
+    {
+        "number":  "037",
+        "rank":  "B",
+        "limit":  "30",
+        "zh":  {
+                   "name":  "初出茅庐的运动员",
+                   "effect":  "把这颗神奇的蛋放在手里每天加热三个小时，持续一到十年。孵化出来的时候你就是顶尖运动员。孵化过程中你的欲望越强，它孵化得越快。"
+               },
+        "ja":  {
+                   "name":  "超一流スポーツ選手の卵",
+                   "effect":  "手の中で毎日３時間温めることで、１～10年後に現実となって孵る卵。温める時に願う気持ちが強い程、早く孵化する。"
+               },
+        "en":  {
+                   "name":  "Fledgling Athlete",
+                   "effect":  "By keeping warm in your hands for 3 hours every day, the egg hatches to become reality in 1-10 years. If the feeling of hope is strong enough while it\u0027s warm, it may hatch faster."
+               }
+    },
+    {
+        "number":  "038",
+        "rank":  "B",
+        "limit":  "30",
+        "zh":  {
+                   "name":  "初出茅庐的艺术家",
+                   "effect":  "将这颗神奇的蛋放在手中每天加热三个小时，持续一到十年。孵化后你将成为顶尖艺术家。孵化过程中你的欲望越强，它孵化得越快。"
+               },
+        "ja":  {
+                   "name":  "超一流アーティストの卵",
+                   "effect":  "手の中で毎日３時間温めることで、１～10年後に現実となって孵る卵。温める時に願う気持ちが強い程、早く孵化する。"
+               },
+        "en":  {
+                   "name":  "Fledgling Artist",
+                   "effect":  "By keeping warm in your hands for 3 hours every day, the egg hatches to become reality in 1-10 years. If the feeling of hope is strong enough while it\u0027s warm, it may hatch faster."
+               }
+    },
+    {
+        "number":  "039",
+        "rank":  "B",
+        "limit":  "30",
+        "zh":  {
+                   "name":  "初出茅庐的政治家",
+                   "effect":  "把这颗神奇的蛋放在手上，每天三个小时，持续一到十年。孵化后，你将成为顶级政治家。孵化过程中你的欲望越强，它孵化得越快。"
+               },
+        "ja":  {
+                   "name":  "大物政治家の卵",
+                   "effect":  "手の中で毎日３時間温めることで、１～10年後に現実となって孵る卵。温める時に願う気持ちが強い程、早く孵化する。"
+               },
+        "en":  {
+                   "name":  "Fledgling Politician",
+                   "effect":  "By keeping warm in your hands for three hours every day, the egg hatches to become reality in one to ten years. If the feeling of hope is strong enough while it\u0027s warm, it may hatch faster."
+               }
+    },
+    {
+        "number":  "040",
+        "rank":  "B",
+        "limit":  "30",
+        "zh":  {
+                   "name":  "后你将成为顶级音乐家",
+                   "effect":  "每天孵化孵化过程中你的欲望越强它孵化得越快"
+               },
+        "ja":  {
+                   "name":  "超一流ミュージシャンの卵",
+                   "effect":  "手の中で毎日３時間温めることで、１～10年後に現実となって孵る卵。温める時に願う気持ちが強い程、早く孵化する。"
+               },
+        "en":  {
+                   "name":  "Fledgling Musician",
+                   "effect":  "By keeping warm in your hands for 3 hours every day, the egg hatches to become reality in 1-10 years. If the feeling of hope is strong enough while it\u0027s warm, it may hatch faster."
+               }
+    },
+    {
+        "number":  "041",
+        "rank":  "B",
+        "limit":  "30",
+        "zh":  {
+                   "name":  "初出茅庐的飞行员",
+                   "effect":  "把这颗神奇的蛋放在手里每天加热三个小时，持续一到十年。孵化后你就是顶级飞行员。孵化过程中你的欲望越强，它孵化得越快。"
+               },
+        "ja":  {
+                   "name":  "超一流パイロットの卵",
+                   "effect":  "手の中で毎日３時間温めることで、１～10年後に現実となって孵る卵。温める時に願う気持ちが強い程、早く孵化する。"
+               },
+        "en":  {
+                   "name":  "Fledgling Pilot",
+                   "effect":  "By keeping warm in your hands for 3 hours every day, the egg hatches to become reality in 1-10 years. If the feeling of hope is strong enough while it\u0027s warm, it may hatch faster."
+               }
+    },
+    {
+        "number":  "042",
+        "rank":  "B",
+        "limit":  "30",
+        "zh":  {
+                   "name":  "初出茅庐的作家",
+                   "effect":  "把这颗神奇的蛋放在手里每天三个小时持续一到十年孵化出来的时候你就是一流的小说家孵化过程中你的欲望越强它孵化得越快"
+               },
+        "ja":  {
+                   "name":  "超一流作家の卵",
+                   "effect":  "手の中で毎日３時間温めることで、１～10年後に現実となって孵る卵。温める時に願う気持ちが強い程、早く孵化する。"
+               },
+        "en":  {
+                   "name":  "Fledgling Novelist",
+                   "effect":  "By keeping warm in your hands for 3 hours every day, the egg hatches to become reality in 1-10 years. If the feeling of hope is strong enough while it\u0027s warm, it may hatch faster."
+               }
+    },
+    {
+        "number":  "043",
+        "rank":  "B",
+        "limit":  "30",
+        "zh":  {
+                   "name":  "初出茅庐的赌徒",
+                   "effect":  "将这颗神奇的蛋握在手中，每天三个小时，持续一到十年。孵化后你将成为顶级赌徒。孵化过程中你的欲望越强，它孵化得越快。"
+               },
+        "ja":  {
+                   "name":  "大ギャンブラーの卵",
+                   "effect":  "手の中で毎日３時間温めることで、１～10年後に現実となって孵る卵。温める時に願う気持ちが強い程、早く孵化する。"
+               },
+        "en":  {
+                   "name":  "Fledgling Gambler",
+                   "effect":  "By keeping warm in your hands for 3 hours every day, the egg hatches to become reality in 1-10 years. If the feeling of hope is strong enough while it\u0027s warm, it may hatch faster."
+               }
+    },
+    {
+        "number":  "044",
+        "rank":  "B",
+        "limit":  "30",
+        "zh":  {
+                   "name":  "初出茅庐的演员",
+                   "effect":  "把这颗神奇的蛋放在手里每天三个小时持续一到十年孵化出来的时候你就是一流的演员孵化过程中你的欲望越强它孵化得越"
+               },
+        "ja":  {
+                   "name":  "大俳優の卵",
+                   "effect":  "手の中で毎日３時間温めることで、１～10年後に現実となって孵る卵。温める時に願う気持ちが強い程、早く孵化する。"
+               },
+        "en":  {
+                   "name":  "Fledgling Actor",
+                   "effect":  "By keeping warm in your hands for 3 hours every day, the egg hatches to become reality in 1-10 years. If the feeling of hope is strong enough while it\u0027s warm, it may hatch faster."
+               }
+    },
+    {
+        "number":  "045",
+        "rank":  "B",
+        "limit":  "30",
+        "zh":  {
+                   "name":  "初出茅庐的CEO",
+                   "effect":  "把这颗神奇的蛋放在手里每天三个小时持续一到十年孵化出来的时候你就是一流的CEO孵化过程中你的欲望越强它孵化得越"
+               },
+        "ja":  {
+                   "name":  "大社長の卵",
+                   "effect":  "手の中で毎日３時間温めることで、１～10年後に現実となって孵る卵。温める時に願う気持ちが強い程、早く孵化する。"
+               },
+        "en":  {
+                   "name":  "Fledgling CEO",
+                   "effect":  "By keeping warm in your hands for 3 hours every day, the egg hatches to become reality in 1 day-10 years. If the feeling of hope is strong enough while it\u0027s warm, it may hatch faster."
+               }
+    },
+    {
+        "number":  "046",
+        "rank":  "A",
+        "limit":  "13",
+        "zh":  {
+                   "name":  "全粉少女",
+                   "effect":  "从身上流出全粉的少女每日沐浴可获得500克黄全非常害羞她很少离开家"
+               },
+        "ja":  {
+                   "name":  "Gold Dust Girl",
+                   "effect":  "全身から金粉をふき出す少女。１日１回の入浴で約５００ｇの金が取れる。非常に内気でずっと家から出ない。"
+               },
+        "en":  {
+                   "name":  "Gold Dust Girl",
+                   "effect":  "A girl that rubs gold dust off her whole body. It is worth 500g a day if taken from her bath after bathing. Does not leave the house very much and is quite shy."
+               }
+    },
+    {
+        "number":  "047",
+        "rank":  "A",
+        "limit":  "11",
+        "zh":  {
+                   "name":  "睡眠少女",
+                   "effect":  "一个代替你入睡的女孩当她为你睡觉时你可以24小时不睡觉地活动0P0亻9841《V，№5·M"
+               },
+        "ja":  {
+                   "name":  "睡眠少女",
+                   "effect":  "あなたの代わりに眠ってくれる少女。これであなたは眠ることなく24時間行動可能となる。"
+               },
+        "en":  {
+                   "name":  "Sleeping Girl",
+                   "effect":  "A girl who sleeps on your behalf. You will be able to stay active for 24 hours during this."
+               }
+    },
+    {
+        "number":  "048",
+        "rank":  "A",
+        "limit":  "15",
+        "zh":  {
+                   "name":  "香薰少女",
+                   "effect":  "一个为你散发最舒服香气的女孩当她在你身边时你将没有压力"
+               },
+        "ja":  {
+                   "name":  "Aromatherapy Girl",
+                   "effect":  "あなたにとって最も心地よい香りを出す少女。そばにいるだけで、ストレスが解消され元気になる。"
+               },
+        "en":  {
+                   "name":  "Aromatherapy Girl",
+                   "effect":  "A girl that gives off pleasant smells. Just being by your side helps to eliminate stress and is quite healthy."
+               }
+    },
+    {
+        "number":  "049",
+        "rank":  "A",
+        "limit":  "23",
+        "zh":  {
+                   "name":  "旱心人鱼",
+                   "effect":  "一条小到可以放在你手中的美人鱼舒适的生活环境让她心情愉快她会用美丽的嗓子唱歌"
+               },
+        "ja":  {
+                   "name":  "手乗り人魚",
+                   "effect":  "その名の通り、手に乗るほどの大きさの人魚。棲み心地が良い場所だと機嫌が良くなり、とても美しい声で歌うことがある。"
+               },
+        "en":  {
+                   "name":  "Miniature Mermaid",
+                   "effect":  "As the name suggests, a mermaid about the size of a hand and can fit on your palm. It will be in a good mood when placed in a comfortable environment, and will sing with a very beautiful voice."
+               }
+    },
+    {
+        "number":  "050",
+        "rank":  "A",
+        "limit":  "11",
+        "zh":  {
+                   "name":  "掌中恐龙",
+                   "effect":  "一只小到可以放在你手中的恐龙这种生物每新一代都会产生一种不同种类的小型恐龙"
+               },
+        "ja":  {
+                   "name":  "Miniature Dino",
+                   "effect":  "その名の通り、手に乗るほどの大きさの恐竜。非常に進化が早く、環境に合わせて世代ごとに姿を変えていく。"
+               },
+        "en":  {
+                   "name":  "Miniature Dino",
+                   "effect":  "As the name suggests, a dinosaur about the size of a hand and can fit on your palm. Its evolution is very fast, and will change its face with each new generation to suit the environment."
+               }
+    },
+    {
+        "number":  "051",
+        "rank":  "S",
+        "limit":  "10",
+        "zh":  {
+                   "name":  "掌中龙",
+                   "effect":  "一只小到可以放在你手上的龙它会服从你的命令如果在爱中长大它最终会学会说话"
+               },
+        "ja":  {
+                   "name":  "手乗りドラゴン",
+                   "effect":  "その名の通り、手に乗るほどの大きさの竜。飼い主の言うことをよく聞く。愛情を込めて育てると言葉も話すようになる。"
+               },
+        "en":  {
+                   "name":  "Miniature Dragon",
+                   "effect":  "As the name suggests, a dragon about the size of a hand and can fit on your palm."
+               }
+    },
+    {
+        "number":  "052",
+        "rank":  "B",
+        "limit":  "30",
+        "zh":  {
+                   "name":  "珍珠蝗虫",
+                   "effect":  "这些蝗虫每只腹中都有珍珠每十年爆发一次蝗灾"
+               },
+        "ja":  {
+                   "name":  "真珠蝗",
+                   "effect":  "腹に真珠を持つ蝗。十数年に１度、大発生する。"
+               },
+        "en":  {
+                   "name":  "Pearl Locusts",
+                   "effect":  "Locusts with a pearl belly. Once every 10 years, an outbreak will occur."
+               }
+    },
+    {
+        "number":  "053",
+        "rank":  "A",
+        "limit":  "30",
+        "zh":  {
+                   "name":  "白色甲虫王",
+                   "effect":  "它使用特殊的信息素来引诱其他昆虫建立一个巨大的群体。它每天晚上去散步，会离开殖民地一次。"
+               },
+        "ja":  {
+                   "name":  "King White Stag Beetle",
+                   "effect":  "A legendary insect. It uses special pheromones to lure other insects to build a huge colony. It leaves the colony once a day for an evening stroll."
+               },
+        "en":  {
+                   "name":  "King White Stag Beetle",
+                   "effect":  "A legendary insect. It uses special pheromones to lure other insects to build a huge colony. It leaves the colony once a day for an evening stroll."
+               }
+    },
+    {
+        "number":  "054",
+        "rank":  "A",
+        "limit":  "25",
+        "zh":  {
+                   "name":  "千年蝶",
+                   "effect":  "一种传说中的昆虫捕获它的人的家族将世代繁荣而得名"
+               },
+        "ja":  {
+                   "name":  "年アゲハ",
+                   "effect":  "伝説の昆虫。この蝶を捕まえることが出来た者は、その後、何代にも渡り繁栄することから、この名がついた。"
+               },
+        "en":  {
+                   "name":  "Millennium Butterfly",
+                   "effect":  "A Legendary Insect. Those who are able to catch the butterfly, the family name with thrive for many generations."
+               }
+    },
+    {
+        "number":  "055",
+        "rank":  "A",
+        "limit":  "20",
+        "zh":  {
+                   "name":  "复仇商店",
+                   "effect":  "向商店反映你的怨恨他会根据你的不满程度对你进行报复支付额外费用以请求更严厉的报复"
+               },
+        "ja":  {
+                   "name":  "仕返し商店",
+                   "effect":  "店主に日頃の恨みを告白すれば、その程度に応じて恨んでいる相手に応酬してくれる。金額を上乗せすることで、より重い仕返しも可能。"
+               },
+        "en":  {
+                   "name":  "Revenge Shop",
+                   "effect":  "Confessing your resentment daily to the shopkeeper, will retaliate to the person who caused it depending on the degree. By setting forth some money, the action will be more severe."
+               }
+    },
+    {
+        "number":  "056",
+        "rank":  "B",
+        "limit":  "25",
+        "zh":  {
+                   "name":  "回忆照相馆",
+                   "effect":  "指定时间和日期以获取您过去的照片您也可以要求一系列照片"
+               },
+        "ja":  {
+                   "name":  "思い出写真館",
+                   "effect":  "年月日と時間を言えば、その時の自分の姿を写真にしてくれる写真館。連続撮影も可能。"
+               },
+        "en":  {
+                   "name":  "Perfect Memory Studio",
+                   "effect":  "Tell the time and date, and the photo studio will show you yourself at that time. Can be multiple photos."
+               }
+    },
+    {
+        "number":  "057",
+        "rank":  "A",
+        "limit":  "11",
+        "zh":  {
+                   "name":  "独自的秘密基地",
+                   "effect":  "代理人将在您选择的地方为您建造一个秘密房间但是您不得将此事告诉任何人或带任何人前閥OTOR，A"
+               },
+        "ja":  {
+                   "name":  "隠れ家不動産",
+                   "effect":  "好きな場所にあなただけの秘密の部屋を作ってくれる。入居条件は誰もその部屋に入れないこと、部屋のことをしゃべらないこと。"
+               },
+        "en":  {
+                   "name":  "Hideout Realtor",
+                   "effect":  "Can make a secret room just for you wherever you like. The condition that you don\u0027t tell anyone about or bring anyone else into the room."
+               }
+    },
+    {
+        "number":  "058",
+        "rank":  "A",
+        "limit":  "13",
+        "zh":  {
+                   "name":  "秘密录像带",
+                   "effect":  "租用他人秘密的视频您不得向任何人展示该视频或讨论其内容"
+               },
+        "ja":  {
+                   "name":  "レンタル秘密ビデオ店",
+                   "effect":  "他人の秘密を見ることが出来るビデオ店。入会条件は借りたビデオを誰にも見せない、内容を話さないこと。"
+               },
+        "en":  {
+                   "name":  "Secrets Video Rental",
+                   "effect":  "A video store where you can see the secrets of others. It is not for anyone else to see the movies borrowed. Admission conditions are also not to speak of the contents."
+               }
+    },
+    {
+        "number":  "059",
+        "rank":  "A",
+        "limit":  "20",
+        "zh":  {
+                   "name":  "即时外语学校",
+                   "effect":  "在这所学校学习一门语言的时间将在计时器上累积。当计时器被激活并倒计时时，您的外语会很流利。"
+               },
+        "ja":  {
+                   "name":  "即席外語スクール",
+                   "effect":  "ここで勉強した時間が専用タイマーに加算される。このタイマーを押している間だけ、外国語が堪能になる。"
+               },
+        "en":  {
+                   "name":  "Instant Foreign Language School",
+                   "effect":  "Time that you study here is added to the dedicated timer. Only whilst you hold down the timer, you will be fluent in this foreign language."
+               }
+    },
+    {
+        "number":  "060",
+        "rank":  "B",
+        "limit":  "30",
+        "zh":  {
+                   "name":  "久违的交货",
+                   "effect":  "拨打电话并描述您丢失的物品，该物品将在第二天送达给您。物品必须丢失超过一个月。"
+               },
+        "ja":  {
+                   "name":  "失し物宅配便",
+                   "effect":  "専用ダイヤルに電話して、なくした物の説明をすれば次の日にはそれを届けてくれる。なくしてから１か月以上経った物でないと、受け付けてもらえない。"
+               },
+        "en":  {
+                   "name":  "Long Lost Delivery",
+                   "effect":  "Your item can be delivered the next day if you dial the number, and describe your lost item. If item is lost or undelivered for less than one month, it\u0027s not accepted."
+               }
+    },
+    {
+        "number":  "061",
+        "rank":  "A",
+        "limit":  "20",
+        "zh":  {
+                   "name":  "投币检查舱",
+                   "effect":  "一次全身医学扫描只需500戒尼，但是唯一的结果是“全部清除”或“检测到异常”。在这种情况下，建议您去看医生。"
+               },
+        "ja":  {
+                   "name":  "コインドック",
+                   "effect":  "500Jで体の全てを調べてくれる。ただし解答は「異常なし」か「異常あり」かの２通りだけ。「異常あり」の場合は病院へ。"
+               },
+        "en":  {
+                   "name":  "Vending Check-Up",
+                   "effect":  "Use to examine your whole body for 500J. However, results are only two ways; \"Abnormality\" and \"No-Error\". Go to hospital is \"Abnormality\"."
+               }
+    },
+    {
+        "number":  "062",
+        "rank":  "B",
+        "limit":  "20",
+        "zh":  {
+                   "name":  "俱乐部之王",
+                   "effect":  "当你在那里时俱乐部里的每个人都会听从你的吩咐然而在俱乐部的一小时等于在外面的一天"
+               },
+        "ja":  {
+                   "name":  "Club \"You Rule\"",
+                   "effect":  "この店の中にいる間は、店内の誰もがあなたの指令を聞いてくれる。 ただしこの店での１時間は店外の１日を意味する。"
+               },
+        "en":  {
+                   "name":  "Club \"You Rule\"",
+                   "effect":  "Whilst in this store, everyone inside will listen and do as you command. However, every hour inside is a day outside."
+               }
+    },
+    {
+        "number":  "063",
+        "rank":  "B",
+        "limit":  "30",
+        "zh":  {
+                   "name":  "虚拟餐厅",
+                   "effect":  "你可以点任何你想要的食物感到饱但这只是一种幻觉在离开时获得多种维生素你会"
+               },
+        "ja":  {
+                   "name":  "バーチャルレストラン",
+                   "effect":  "頼めばどんな料理でも出してくれる。満腹感を得られるが、実際には食べた気になっているだけで何も腹に入っていない。最後に栄養剤をくれる。"
+               },
+        "en":  {
+                   "name":  "Virtual Restaurant",
+                   "effect":  "You can have any cooking you ask for. You obtain the feeling of fullness, but nothing is in your stomach and it only feels like you have. You are given nutrients at the end."
+               }
+    },
+    {
+        "number":  "064",
+        "rank":  "B",
+        "limit":  "30",
+        "zh":  {
+                   "name":  "女巫的爱情药",
+                   "effect":  "亲吻一颗药丸并让你想要的人喝下它他或她就会爱上你粒药持续一周药丸一瓶含有500粒"
+               },
+        "ja":  {
+                   "name":  "魔女の媚薬",
+                   "effect":  "この薬に口づけして意中の相手に飲ませれば、その人はあなたの虜になる。粒の効き目は１週間。１ビン500粒入り。"
+               },
+        "en":  {
+                   "name":  "Witch\u0027s Love Potion",
+                   "effect":  "If you ask another party to ingest this pill when you\u0027ve given it a kiss, that person becomes captivated for you. The effect lasts a week. 500 pills in 1 bottle."
+               }
+    },
+    {
+        "number":  "065",
+        "rank":  "S",
+        "limit":  "10",
+        "zh":  {
+                   "name":  "返老还童药",
+                   "effect":  "每颗药丸都会让您的身体年轻岁您将保留所有知识和记忆当心因为如果您服用超过年齿令的药物您将会死亡100粒药丸一瓶含有"
+               },
+        "ja":  {
+                   "name":  "魔女の若返り薬",
+                   "effect":  "１粒飲めば１才若返る薬。若返るのは肉体のみで、知識、記憶などはそのまま残る。年以上の数の薬を飲むと死んでしまうので要注意。１ビン100粒入り。"
+               },
+        "en":  {
+                   "name":  "Witch\u0027s Rejuvenation Potion",
+                   "effect":  "Medicine that rejuvenates you by one year. Only the body gets younger, so memories remain in-tact. So pay caution, taking more pills than your age will make you die. 100 pills in 1 bottle."
+               }
+    },
+    {
+        "number":  "066",
+        "rank":  "B",
+        "limit":  "28",
+        "zh":  {
+                   "name":  "女巫的瘦身药",
+                   "effect":  "每颗药丸都会让你减掉一公斤。一瓶含有200粒药丸；如果您摄入的量超过您的体重，您将会死亡。"
+               },
+        "ja":  {
+                   "name":  "魔女の痩せ薬",
+                   "effect":  "１粒飲めば１kg体重が減る薬。１ビン200粒入り。体重以上の数の薬を飲むと死んでしまうので要注意。"
+               },
+        "en":  {
+                   "name":  "Witch\u0027s Diet Pills",
+                   "effect":  "Medicine that reduces your weight by 1KG every tablet. 200 Tablets in a bottle. So pay caution, taking more pills than your weight will make you die."
+               }
+    },
+    {
+        "number":  "067",
+        "rank":  "B",
+        "limit":  "30",
+        "zh":  {
+                   "name":  "长老的增高药",
+                   "effect":  "每颗药丸都会让你长高一厘米一瓶含有100粒药丸不建议20岁以下的人使用"
+               },
+        "ja":  {
+                   "name":  "長老の背伸び薬",
+                   "effect":  "１粒飲めば１cm背が伸びる。１ビン100粒入り。20歳を過ぎてからの服用が望ましい。"
+               },
+        "en":  {
+                   "name":  "Doyen\u0027s Growth Pills",
+                   "effect":  "You will grow 1cm with each pill taken. 100 tablets per bottle. Taking from before 20 years of age is not recommended."
+               }
+    },
+    {
+        "number":  "068",
+        "rank":  "A",
+        "limit":  "20",
+        "zh":  {
+                   "name":  "长老的壮阳药",
+                   "effect":  "你身体的某个部分会变得非常活泼耐力和频率都得到增强500粒药丸一瓶含有"
+               },
+        "ja":  {
+                   "name":  "長老の精力増強薬",
+                   "effect":  "肉体の一部がものすごく元気になる薬。回数、持続力とも文句なし。１ビン500粒入り。"
+               },
+        "en":  {
+                   "name":  "Doyen\u0027s Virility Pills",
+                   "effect":  "This medicine, makes part of the body extremely energetic. Causing undisputed number of times and endurance. 500 tables in a bottle."
+               }
+    },
+    {
+        "number":  "069",
+        "rank":  "B",
+        "limit":  "30",
+        "zh":  {
+                   "name":  "长老的生发剂",
+                   "effect":  "无论在哪里涂抹都会长出浓密的头发记得使用手套否则手指和一瓶200毫升手掌上会长出毛发（足以覆盖十个头）"
+               },
+        "ja":  {
+                   "name":  "長老の毛生え薬",
+                   "effect":  "塗った所がフサフサになる薬。塗る時は手袋を着用すること。でないと手の平や指先にも毛が生えてしまう。１ビン200ml（頭なら10人分）。"
+               },
+        "en":  {
+                   "name":  "Doyen\u0027s Hair Restorer",
+                   "effect":  "Area where you allied the medicine, will grow bushy. The gloves should be worn when using the drug, otherwise your hands and fingers will be affected. (10 head servings) 1 Bottle, 200ml."
+               }
+    },
+    {
+        "number":  "070",
+        "rank":  "A",
+        "limit":  "16",
+        "zh":  {
+                   "name":  "疯狂科学家的增肌药",
+                   "effect":  "无需运动即可获得想要的所有肌肉。你必须连续一周每天喝一升，而且味道很难闻。一套七盒，每盒十个一升的瓶子。"
+               },
+        "ja":  {
+                   "name":  "マッド博士の筋肉増強剤",
+                   "effect":  "飲むとイメージ通りの筋肉を得ることができる。１日１L１週間飲み続ければならないが、おそろしく不味い。１ビン10本入りの箱、７箱セット。"
+               },
+        "en":  {
+                   "name":  "Mad Scientist\u0027s Steroids",
+                   "effect":  "It is possible to obtain muscles of your dreams when you swallow this potion. Drink 1L a day for a week, but it tastes very unpleasant. Box holds 10 bottles. 7 Box Set."
+               }
+    },
+    {
+        "number":  "071",
+        "rank":  "A",
+        "limit":  "20",
+        "zh":  {
+                   "name":  "疯狂科学家的费洛蒙",
+                   "effect":  "喷在身上可以吸引异性，但是无法调整效果的强弱，可能会引起追猎者的激增，请注意。"
+               },
+        "ja":  {
+                   "name":  "マッド博士のフェロモン剤",
+                   "effect":  "体に吹き掛けると異性にとてもモテるようになる。ただし効き目をセーブできないので、ストーカーの大量発生など問題も多い。注意が必要。"
+               },
+        "en":  {
+                   "name":  "Mad Scientist\u0027s Pheromones",
+                   "effect":  "Become very popular to the opposite sex when you have sprayed this over your body. As the strength can\u0027t be altered, outbreaks of stalkers often. Care must be taken."
+               }
+    },
+    {
+        "number":  "072",
+        "rank":  "A",
+        "limit":  "15",
+        "zh":  {
+                   "name":  "疯狂科学家的整形面具",
+                   "effect":  "扫描一张你想要的脸的照片，你就会得到一模一样的脸。每次手术都有5%的失败几率，以及1%的机器本身损坏的几率。"
+               },
+        "ja":  {
+                   "name":  "Mad Scientist\u0027s Plastic Surgery",
+                   "effect":  "なりたい顔の写真をインプットすればその通りに整形してくれる。何度でも手術可能だが、５％の確率で手術が失敗し、１％の確率でマシーンそのものが壊れる。"
+               },
+        "en":  {
+                   "name":  "Mad Scientist\u0027s Plastic Surgery",
+                   "effect":  "You can shape your body when you input a picture of a face you want to be. Surgery is as many times as you want, but each use carries 5% failure rate. The machine itself will break with 1% chance."
+               }
+    },
+    {
+        "number":  "073",
+        "rank":  "A",
+        "limit":  "15",
+        "zh":  {
+                   "name":  "黑暗翡翠",
+                   "effect":  "被恶魔\"祝福\"的宝石当危险即将降临到它的主人身上时它会将它转移到其他人身上"
+               },
+        "ja":  {
+                   "name":  "闇のヒスイ",
+                   "effect":  "悪魔の加護を受けた宝石。持ち主に危機がふりかかりそうになると、他人にその厄災を渡してしまう。"
+               },
+        "en":  {
+                   "name":  "Night Jade",
+                   "effect":  "Jewellery that has received the blessings of the devil. When crisis is about to befall its owner, it is randomly pass the disaster to others."
+               }
+    },
+    {
+        "number":  "074",
+        "rank":  "A",
+        "limit":  "11",
+        "zh":  {
+                   "name":  "贤者的海蓝宝石",
+                   "effect":  "它的主人将有许多聪明的朋友并终生保持这些友谊"
+               },
+        "ja":  {
+                   "name":  "賢者のアクアマリン",
+                   "effect":  "所有している者は、一生を通して付き合うことができる、知性豊かな友人を何人も得るだろう。"
+               },
+        "en":  {
+                   "name":  "Sage\u0027s Aquamarine",
+                   "effect":  "The owner, will be able to get on through life, with friends rich in intelligence."
+               }
+    },
+    {
+        "number":  "075",
+        "rank":  "A",
+        "limit":  "20",
+        "zh":  {
+                   "name":  "奇迹的",
+                   "effect":  "亚历山大宝石它的主人将获得千载难逢的体验尽管你无法选择它们是好是坏"
+               },
+        "ja":  {
+                   "name":  "Wild Luck Alexandrite",
+                   "effect":  "所有している者は他の者が決して味わえない貴重な体験をすることが出来る。 幸運か不運かは選ぶことが出来ないが・・・。"
+               },
+        "en":  {
+                   "name":  "Wild Luck Alexandrite",
+                   "effect":  "The owner can gain valuable experiences, that others can\u0027t. Although you can\u0027t choose good luck or bad luck."
+               }
+    },
+    {
+        "number":  "076",
+        "rank":  "B",
+        "limit":  "30",
+        "zh":  {
+                   "name":  "流浪的红宝石",
+                   "effect":  "这颗红宝石的主人将获得巨大的财富，但绝不能在同一个地方停留超过一个星期。"
+               },
+        "ja":  {
+                   "name":  "さまようルビー",
+                   "effect":  "このルビーの持ち主は巨万の富を得るかわりに定住を許されない。一週間と同じ地に留まることはないだろう。"
+               },
+        "en":  {
+                   "name":  "Roaming Ruby",
+                   "effect":  "Owner of this ruby is not allowed to settle in one place, in order for great wealth. Can\u0027t remain in the same place for a week."
+               }
+    },
+    {
+        "number":  "077",
+        "rank":  "S",
+        "limit":  "10",
+        "zh":  {
+                   "name":  "美人祖母绿",
+                   "effect":  "提供美容服务的专家将蜂拥而至它的主人主人将散发出不为人知的美丽"
+               },
+        "ja":  {
+                   "name":  "美を呼ぶエメラルド",
+                   "effect":  "持ち主の周りには美の奉仕者が吸いよせられるように集まってくる。あなた自身も輝き、見違えるほど魅力的になれるだろう。"
+               },
+        "en":  {
+                   "name":  "Beauty Magnet Emerald",
+                   "effect":  "Bring together care-givers of beauty to the owners side like a magnet. You will shine and become very attractive, but also beyond recognition."
+               }
+    },
+    {
+        "number":  "078",
+        "rank":  "B",
+        "limit":  "30",
+        "zh":  {
+                   "name":  "孤独的蓝宝石",
+                   "effect":  "这颗蓝宝石的拥有者将获得巨额但作为交换他将独自度过一生被朋友家人和重要的人抛弃"
+               },
+        "ja":  {
+                   "name":  "孤独なサファイヤ",
+                   "effect":  "このサファイヤの持ち主は巨万の富を得るかわりに一生を１人で過ごす。友人、恋人、家族すらすぐに持ち主の元を離れていくだろう。"
+               },
+        "en":  {
+                   "name":  "Lonely Sapphire",
+                   "effect":  "The owner of this sapphire will spend a lifetime very wealthy. Friends, Lover and Family will immediately move away from the owner."
+               }
+    },
+    {
+        "number":  "079",
+        "rank":  "A",
+        "limit":  "20",
+        "zh":  {
+                   "name":  "彩虹钻石",
+                   "effect":  "一颗闪耀着彩虹般色彩的钻石用这颗钻石求婚她一定会说"
+               },
+        "ja":  {
+                   "name":  "レインボーダイヤ",
+                   "effect":  "七色に光り輝くダイヤ。このダイヤを渡してプロポーズすれば100％成功する。手元にダイヤがある限り、２人が離れることはないだろう。"
+               },
+        "en":  {
+                   "name":  "Rainbow Diamond",
+                   "effect":  "Diamond sparkling in seven colors. 100% successful if you propose with this diamond. As longs as the ring is in hand, never will there be a second person."
+               }
+    },
+    {
+        "number":  "080",
+        "rank":  "S",
+        "limit":  "7",
+        "zh":  {
+                   "name":  "悬浮石",
+                   "effect":  "一颗大约一克拉大小的漂浮石头。它可以使一个人漂浮起来，并从阳光中获取能量。"
+               },
+        "ja":  {
+                   "name":  "浮遊石",
+                   "effect":  "その名の通り、宙に浮く石。１カラットほどの大きさの石で、人間１人浮かすことができる。太陽の光を当てないと浮力を得られない。"
+               },
+        "en":  {
+                   "name":  "Levitation Stone",
+                   "effect":  "As the name implies, a stone that floats on its own. The stone is about 1 karrot, and can float one person at a time. Buoyancy can\u0027t be maintained if not in the light of the sun."
+               }
+    },
+    {
+        "number":  "081",
+        "rank":  "SS",
+        "limit":  "5",
+        "zh":  {
+                   "name":  "蓝色星球",
+                   "effect":  "独特的蓝色宝石它的成分不符合任何已知的矿物因此它被赋予这个名字意思是\"来自太的礼物\""
+               },
+        "ja":  {
+                   "name":  "Blue Planet",
+                   "effect":  "唯一無二の青で輝く宝石。成分構成上、どの鉱物にも属さないので、 宇宙からの贈り物という意味を込めてこの名がついた。"
+               },
+        "en":  {
+                   "name":  "Blue Planet",
+                   "effect":  "A jewel shining in an unique blue. The structural composition is not of anything found on the earth, so the name was given as \"A Gift from the Universe\"."
+               }
+    },
+    {
+        "number":  "082",
+        "rank":  "A",
+        "limit":  "15",
+        "zh":  {
+                   "name":  "天罚之杖",
+                   "effect":  "把这根法杖举在空中同时喊出你要惩罚的人的名字灾难就会降临到你目标或你自己的恶行更多的人身上"
+               },
+        "ja":  {
+                   "name":  "Staff of Judgment",
+                   "effect":  "When holding this staff to the heavens and chanting the name of a person you want to punish, strong evil will befall the person who has the most bad karma."
+               },
+        "en":  {
+                   "name":  "Staff of Judgment",
+                   "effect":  "When holding this staff to the heavens and chanting the name of a person you want to punish, strong evil will befall the person who has the most bad karma."
+               }
+    },
+    {
+        "number":  "083",
+        "rank":  "B",
+        "limit":  "22",
+        "zh":  {
+                   "name":  "真实之剑",
+                   "effect":  "把虚假一刀两断的剑在审判中这是罪犯最可怕的噩梦刀砍真物时会碎裂但在刀鞘中存放一天后会再生、OTFOR5E"
+               },
+        "ja":  {
+                   "name":  "Sword of Truth",
+                   "effect":  "偽りのものを一刀両断にする剣。裁判ににも使われ、犯罪者をふるえあがらせた。真実を切ると刃がくだけちるが、鞘におさめておくと１日で再生する。"
+               },
+        "en":  {
+                   "name":  "Sword of Truth",
+                   "effect":  "The sword cuts things into two pieces that lie. It is also used in trials against criminals. The blade shatters if it is not a lie, but will be repaired in a day when in its sheath."
+               }
+    },
+    {
+        "number":  "084",
+        "rank":  "D",
+        "limit":  "60",
+        "zh":  {
+                   "name":  "圣骑士的项链",
+                   "effect":  "穿着它的玩家会击退施加在他身上的诅咒并能够解除他接触到的牌上的诅咒"
+               },
+        "ja":  {
+                   "name":  "Paladin\u0027s Necklace",
+                   "effect":  "これを身につけたプレイヤーは呪いをはね返すことができる上、触れたカードの呪いも解くことができる。"
+               },
+        "en":  {
+                   "name":  "Paladin\u0027s Necklace",
+                   "effect":  "The player wearing this necklace will repel curses cast on them. It will also undo curses on cards upon touching them."
+               }
+    },
+    {
+        "number":  "085",
+        "rank":  "S",
+        "limit":  "8",
+        "zh":  {
+                   "name":  "替身铠甲",
+                   "effect":  "使从卡中还原的武器的任何攻击无效它会在1～100次攻击中随机被破坏"
+               },
+        "ja":  {
+                   "name":  "身代わりの鎧",
+                   "effect":  "カード化を解除した武器による攻撃を全て無効化してくれる鎧。 ただし攻撃の耐用回数１～100回のランダムで、突然壊れるから注意。"
+               },
+        "en":  {
+                   "name":  "Sacrifice Armor",
+                   "effect":  "Amour that will disable all attacks by weapons useless. Note however, the armor will randomly break within 1-100 attacks."
+               }
+    },
+    {
+        "number":  "086",
+        "rank":  "A",
+        "limit":  "11",
+        "zh":  {
+                   "name":  "挫折之弓",
+                   "effect":  "装备好后，剩下的弓箭可当做“脱离”。它带有10支箭，每次施放“离开”时都会使用一支。"
+               },
+        "ja":  {
+                   "name":  "挫折の弓",
+                   "effect":  "装備すると残っている弓の数だけ「離脱」を唱えることができる。 弓は10本入り。「離脱」を唱える度に１本減っていく。"
+               },
+        "en":  {
+                   "name":  "Quiver of Frustration",
+                   "effect":  "It\u0027s possible to recite the \"Leave\" with each arrow that remains equipped. One vanishing each time you cast a \"Leave\". Bow with 10 Pieces."
+               }
+    },
+    {
+        "number":  "087",
+        "rank":  "S",
+        "limit":  "15",
+        "zh":  {
+                   "name":  "信仰之盾",
+                   "effect":  "法术\"降附\"\"返回\"和\"冲突\"将在装备此盾牌的玩家20M半径范围内失效N01FOR"
+               },
+        "ja":  {
+                   "name":  "Shield of Faith",
+                   "effect":  "これを装備したプレイヤーの半径２０ｍは「左遷」「初心」「漂流」「衝突」のスペルが無効になる。"
+               },
+        "en":  {
+                   "name":  "Shield of Faith",
+                   "effect":  "The Spells \"Relegate\", \"Return\", \"Drift\", and \"Collision\" are in-affective within a 20m radius of a player equipped with this card."
+               }
+    },
+    {
+        "number":  "088",
+        "rank":  "A",
+        "limit":  "15",
+        "zh":  {
+                   "name":  "永恒之锤",
+                   "effect":  "任何被这把锤子击中的人都会又到一种随机攻击法术的影响并且无法用防御法术来保护自己亻日曰宀、一疋匕不适用于使用\"牢固或圣骑士项链的人"
+               },
+        "ja":  {
+                   "name":  "Eternal Hammer",
+                   "effect":  "この金槌で殴られた者は、ランダムで攻撃呪文のいずれかの効果をうける。これを防御呪文で防ぐことはできない。ただし「堅牢」「聖騎士の首飾り」の使用者には無効。"
+               },
+        "en":  {
+                   "name":  "Eternal Hammer",
+                   "effect":  "Anyone beaten with this hammer, is hit with a random spell effect. It can not be defended against unless with Fortress\" or Paladin\u0027s Necklace."
+               }
+    },
+    {
+        "number":  "089",
+        "rank":  "A",
+        "limit":  "20",
+        "zh":  {
+                   "name":  "税务长的护手",
+                   "effect":  "授予你施放\"征召\u0027的能力但是它每次都会从您的指定口袋中随机销毁一张指定的插槽卡（如果你指定的槽是空的，你不能施放它）"
+               },
+        "ja":  {
+                   "name":  "税務長の籠手",
+                   "effect":  "装備している間「徴収」を使えるようになる籠手。ただし１回唱えるごとに、装備プレイヤーの指定ポケット内のカードをランダムに1枚破壊される。（指定ポケット内にカードがないと使えない）"
+               },
+        "en":  {
+                   "name":  "Tax Collector\u0027s Gauntlet",
+                   "effect":  "The gauntlet allows the player to cast Levy. However, each time you cast it, a designated slot card will be destroyed at random. (cannot be used if the player has no designated slot cards)."
+               }
+    },
+    {
+        "number":  "090",
+        "rank":  "A",
+        "limit":  "20",
+        "zh":  {
+                   "name":  "记忆头盔",
+                   "effect":  "丿戴上这款头盔您将永远不会忘记您看到或听到的事情不幸的是它又大又重"
+               },
+        "ja":  {
+                   "name":  "記憶の兜",
+                   "effect":  "これをかぶっている時に見聞きしたことは決して忘れない。非常に重く大きいのがタマにキズ。"
+               },
+        "en":  {
+                   "name":  "Memory Helmet",
+                   "effect":  "You will never forget anything you see or hear when wearing this helmet. But it is very large and heavy."
+               }
+    },
+    {
+        "number":  "091",
+        "rank":  "A",
+        "limit":  "20",
+        "zh":  {
+                   "name":  "模型王",
+                   "effect":  "组合这个1:1比例模型套件的部件，以构建任何类型的车辆。功能齐全，不包括燃料。"
+               },
+        "ja":  {
+                   "name":  "プラキング",
+                   "effect":  "組み合わせ次第でどんな乗り物でも作ることができるプラモデルキット。もちろん１分の１スケールで運転もできる。ただし燃料は別売り。"
+               },
+        "en":  {
+                   "name":  "Plastic King",
+                   "effect":  "A model kit that can be made into any kind of vehicle. It runs perfectly. Fuel however, is sold separately."
+               }
+    },
+    {
+        "number":  "092",
+        "rank":  "S",
+        "limit":  "7",
+        "zh":  {
+                   "name":  "替身符",
+                   "effect":  "撕下这张票给你想交换的人你就可以过他的生活24小时共1000张"
+               },
+        "ja":  {
+                   "name":  "影武者切符",
+                   "effect":  "この切符を切って代わりたい人に渡すと、24時間その人の代わりを務めることができる。1000枚入り。"
+               },
+        "en":  {
+                   "name":  "Swap Ticket",
+                   "effect":  "If you rip this ticket in half and pass half to a person, you will swap bodies and live as that person for 24 hours. 1000 pieces."
+               }
+    },
+    {
+        "number":  "093",
+        "rank":  "B",
+        "limit":  "28",
+        "zh":  {
+                   "name":  "人生图鉴",
+                   "effect":  "一本百科全书收录了自您出生以来出现在您生命中的每个人其中包含对话记录和令人难忘的事件它最终可能长达数万页"
+               },
+        "ja":  {
+                   "name":  "人生図鑑",
+                   "effect":  "生まれてからこれまで自分が関わってきた人々を全て収録している図鑑。登場人物とのエピソードや会話録など思い出満載。最終的に数十万頁におよぶことも珍しくない。"
+               },
+        "en":  {
+                   "name":  "Book of Life",
+                   "effect":  "An Encyclopedia that\u0027s recorded all the people who have been involved in your life since birth. Full conversations and memories. Will be hundreds of thousands of pages long, most of which are irrelevant."
+               }
+    },
+    {
+        "number":  "094",
+        "rank":  "S",
+        "limit":  "10",
+        "zh":  {
+                   "name":  "强盗之刃",
+                   "effect":  "使用此武器成功攻击会对目标施放\"强夺\"\"偷窃\"或\u0027盗取\"对使用\"坚牢\"或\"圣骑士的项链\"的人无效"
+               },
+        "ja":  {
+                   "name":  "Bandit\u0027s Blade",
+                   "effect":  "この剣で攻撃が成功すると、攻撃した相手にランダムで「強奪」「掏摸」「窃盗」のいずれかの効果を与えることができる。ただし「堅牢」「聖騎士の首飾り」の使用者には無効。"
+               },
+        "en":  {
+                   "name":  "Bandit\u0027s Blade",
+                   "effect":  "An attack successful with this sword, will randomly cast \"Mug\", \"Pickpocket\", or \"Thief\" on the victim. However, not valid against \"Fortress\" or Paladin\u0027s Necklace."
+               }
+    },
+    {
+        "number":  "095",
+        "rank":  "A",
+        "limit":  "20",
+        "zh":  {
+                   "name":  "隐秘斗篷",
+                   "effect":  "穿着这件斗篷时\"暗墓\u0027的效果您将获得"
+               },
+        "ja":  {
+                   "name":  "秘密のマント",
+                   "effect":  "身につけていると永続的に「暗幕」の効果が得られる。"
+               },
+        "en":  {
+                   "name":  "Secret Cape",
+                   "effect":  "The effect of Blackout Curtain is in effect whilst wearing this cape."
+               }
+    },
+    {
+        "number":  "096",
+        "rank":  "A",
+        "limit":  "12",
+        "zh":  {
+                   "name":  "千里眼之蛇",
+                   "effect":  "喂它一张C级或C级以上的卡片它就会吐出一张\"千里眼\""
+               },
+        "ja":  {
+                   "name":  "Clairvoyant Snake",
+                   "effect":  "ランクＣ以上のカードを１枚食べさせると、代わりに「念視」のカードを吐き出す蛇。"
+               },
+        "en":  {
+                   "name":  "Clairvoyant Snake",
+                   "effect":  "If you feed it a C-Rank card or higher, it will spit out a \"Clairvoyance\" instead."
+               }
+    },
+    {
+        "number":  "097",
+        "rank":  "A",
+        "limit":  "20",
+        "zh":  {
+                   "name":  "3D相机",
+                   "effect":  "用它拍摄的照片将被开发为3D对象所有纹理都会被复制可以根据需要进行放大"
+               },
+        "ja":  {
+                   "name":  "3Dカメラ",
+                   "effect":  "撮影したものを立体のまま現像できるカメラ。サイズも調節可能で、質感もそのまま再現できる。"
+               },
+        "en":  {
+                   "name":  "3-D Camera",
+                   "effect":  "A camera that develops actual solid things of the pictures captured. Size is also adjustable, and textures are also reproduced."
+               }
+    },
+    {
+        "number":  "098",
+        "rank":  "S",
+        "limit":  "8",
+        "zh":  {
+                   "name":  "银犬",
+                   "effect":  "濒临灭绝的银毛物种每天将5g黄全混入食物中会排泄出lkg固体白银粪便"
+               },
+        "ja":  {
+                   "name":  "シルバードッグ",
+                   "effect":  "絶滅寸前の珍獣。銀色の毛を有する。しかも糞が銀でできている。１日５gの金をドッグフードに混ぜて与えると、１kgの銀糞を出す。"
+               },
+        "en":  {
+                   "name":  "Silver Dog",
+                   "effect":  "A rare endangered animal. It has hair of silver, and it\u0027s poo is made of silver. If you give it dog food mixed with 5g of gold a day, it gives poo of 1Kg silver."
+               }
+    },
+    {
+        "number":  "099",
+        "rank":  "S",
+        "limit":  "6",
+        "zh":  {
+                   "name":  "熊猫女仆",
+                   "effect":  "濒危物种非常整洁喜欢做饭也有缝纫或园艺等爱好他们非常擅长照顾人类的孩子"
+               },
+        "ja":  {
+                   "name":  "メイドパンダ",
+                   "effect":  "絶滅寸前の珍獣。大変きれい好きで、料理が趣味。個体によっては洋裁やガーデニングもたしなむ。何よりも人間の子供の面倒を見るのが得意。"
+               },
+        "en":  {
+                   "name":  "Panda Maid",
+                   "effect":  "A rare endangered animal. It\u0027s very tidy and loves cooking as a hobby. Some individuals love gardening and dressmaking too. It\u0027s good at taking card of human children more than anything."
+               }
+    }
+]
