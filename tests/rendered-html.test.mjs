@@ -75,19 +75,12 @@ test("contains 100 full images and 100 thumbnails for each language", async () =
 
 test("ships the requested binder interactions", async () => {
   const page = await readFile(new URL("app/page.tsx", root), "utf8");
-  const styles = await readFile(new URL("app/globals.css", root), "utf8");
   assert.match(page, /CARDS_PER_PAGE = 10/);
   assert.match(page, /finishBookSwipe/);
   assert.match(page, /finishCardSwipe/);
   assert.match(page, /jumpToCard/);
   assert.match(page, /searchResults/);
   assert.match(page, /language-switch/);
-  assert.match(page, /shareSite/);
-  assert.match(page, /navigator\.share/);
-  assert.match(page, /navigator\.clipboard\.writeText/);
-  assert.match(page, /MicroMessenger/);
-  assert.match(page, /share-button/);
-  assert.match(styles, /\.cover-share-button\s*\{[^}]*left:\s*max\(14px, env\(safe-area-inset-left\)\)/s);
-  assert.doesNotMatch(styles, /\.cover-share-button\s*\{[^}]*right:/s);
+  assert.doesNotMatch(page, /shareSite|navigator\.share|share-button/);
   assert.doesNotMatch(page, /SkeletonPreview|codex-preview/);
 });

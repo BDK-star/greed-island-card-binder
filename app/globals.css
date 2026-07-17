@@ -263,69 +263,6 @@ button {
   gap: 8px;
 }
 
-.header-actions {
-  display: flex;
-  align-items: center;
-  gap: 6px;
-}
-
-.share-button {
-  display: inline-flex;
-  height: 34px;
-  align-items: center;
-  justify-content: center;
-  gap: 4px;
-  border: 1px solid rgba(214, 186, 115, 0.34);
-  border-radius: 999px;
-  padding: 0 10px;
-  background: rgba(214, 186, 115, 0.1);
-  color: #ead49c;
-  font-size: 11px;
-  font-weight: 700;
-  cursor: pointer;
-}
-
-.share-button:active {
-  transform: scale(0.97);
-}
-
-.share-symbol {
-  font-family: Arial, sans-serif;
-  font-size: 17px;
-  line-height: 1;
-}
-
-.cover-share-button {
-  position: fixed;
-  z-index: 20;
-  top: max(14px, env(safe-area-inset-top));
-  left: max(14px, env(safe-area-inset-left));
-  height: 38px;
-  padding: 0 13px;
-  background: rgba(12, 10, 30, 0.7);
-  backdrop-filter: blur(12px);
-}
-
-.share-notice {
-  position: fixed;
-  z-index: 120;
-  right: 18px;
-  bottom: max(22px, calc(env(safe-area-inset-bottom) + 14px));
-  left: 18px;
-  max-width: 520px;
-  margin: auto;
-  border: 1px solid rgba(214, 186, 115, 0.34);
-  border-radius: 13px;
-  padding: 11px 14px;
-  background: rgba(17, 14, 37, 0.94);
-  color: #f1e5c4;
-  box-shadow: 0 14px 36px rgba(0,0,0,0.42);
-  font-size: 12px;
-  line-height: 1.5;
-  text-align: center;
-  backdrop-filter: blur(16px);
-}
-
 .icon-button {
   display: grid;
   width: 40px;
@@ -946,8 +883,6 @@ button {
 
 @media (max-width: 420px) {
   .app-header { grid-template-columns: 40px minmax(54px, 1fr) auto; gap: 6px; }
-  .header-actions { gap: 4px; }
-  .share-button { padding: 0 8px; }
   .language-switch button { padding-right: 7px; padding-left: 7px; }
 }
 
