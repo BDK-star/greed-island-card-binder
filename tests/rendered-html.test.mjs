@@ -81,5 +81,10 @@ test("ships the requested binder interactions", async () => {
   assert.match(page, /jumpToCard/);
   assert.match(page, /searchResults/);
   assert.match(page, /language-switch/);
+  assert.match(page, /shareSite/);
+  assert.match(page, /navigator\.share/);
+  assert.match(page, /navigator\.clipboard\.writeText/);
+  assert.match(page, /MicroMessenger/);
+  assert.match(page, /share-button/);
   assert.doesNotMatch(page, /SkeletonPreview|codex-preview/);
 });

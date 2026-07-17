@@ -28,6 +28,11 @@ const copy = {
     limit: "限量",
     close: "关闭卡牌",
     swipe: "左右滑动翻页",
+    share: "分享",
+    shareText: "贪婪之岛 No.000—099 三语互动卡册",
+    shareCopied: "链接已复制，可以粘贴给好友",
+    shareWeChat: "链接已复制，请点击右上角“…”分享给朋友或朋友圈",
+    shareFailed: "无法自动复制，请使用浏览器菜单分享",
   },
   ja: {
     title: "グリードアイランド",
@@ -47,6 +52,11 @@ const copy = {
     limit: "限度枚数",
     close: "カードを閉じる",
     swipe: "左右にスワイプしてページをめくる",
+    share: "共有",
+    shareText: "グリードアイランド No.000—099 多言語カードバインダー",
+    shareCopied: "リンクをコピーしました",
+    shareWeChat: "リンクをコピーしました。右上のメニューから共有してください",
+    shareFailed: "ブラウザのメニューから共有してください",
   },
   en: {
     title: "Greed Island",
@@ -66,6 +76,11 @@ const copy = {
     limit: "Limit",
     close: "Close card",
     swipe: "Swipe left or right to turn pages",
+    share: "Share",
+    shareText: "Greed Island No.000—099 multilingual interactive card binder",
+    shareCopied: "Link copied — paste it to share",
+    shareWeChat: "Link copied — use the top-right menu to share it",
+    shareFailed: "Use your browser menu to share this page",
   },
 } as const;
 
@@ -87,6 +102,7 @@ export default function Home() {
   const [jumpNumber, setJumpNumber] = useState("");
   const [selectedIndex, setSelectedIndex] = useState<number | null>(null);
   const [highlighted, setHighlighted] = useState<number | null>(null);
+  const [shareNotice, setShareNotice] = useState<string | null>(null);
   const bookTouchStart = useRef<number | null>(null);
   const cardTouchStart = useRef<number | null>(null);
   const t = copy[language];
@@ -135,6 +151,53 @@ export default function Home() {
     return () => window.clearTimeout(timeout);
   }, [highlighted]);
 
+  useEffect(() => {
+    if (shareNotice === null) return;
+    const timeout = window.setTimeout(() => setShareNotice(null), 3600);
+    return () => window.clearTimeout(timeout);
+  }, [shareNotice]);
+
+  const copyShareUrl = async (url: string) => {
+    try {
+      await navigator.clipboard.writeText(url);
+      return true;
+    } catch {
+      const input = document.createElement("textarea");
+      input.value = url;
+      input.setAttribute("readonly", "");
+      input.style.position = "fixed";
+      input.style.opacity = "0";
+      document.body.appendChild(input);
+      input.select();
+      const copied = document.execCommand("copy");
+      input.remove();
+      return copied;
+    }
+  };
+
+  const shareSite = async () => {
+    const url = window.location.href;
+    const isWeChat = /MicroMessenger/i.test(navigator.userAgent);
+
+    if (isWeChat) {
+      const copied = await copyShareUrl(url);
+      setShareNotice(copied ? t.shareWeChat : t.shareFailed);
+      return;
+    }
+
+    if (navigator.share) {
+      try {
+        await navigator.share({ title: t.title, text: t.shareText, url });
+        return;
+      } catch (error) {
+        if (error instanceof DOMException && error.name === "AbortError") return;
+      }
+    }
+
+    const copied = await copyShareUrl(url);
+    setShareNotice(copied ? t.shareCopied : t.shareFailed);
+  };
+
   const openCard = (card: Card) => {
     const index = Number(card.number);
     setPage(Math.floor(index / CARDS_PER_PAGE));
@@ -182,6 +245,10 @@ export default function Home() {
     return (
       <main className="cover-stage">
         <div className="cover-glow" aria-hidden="true" />
+        <button className="share-button cover-share-button" onClick={shareSite} aria-label={t.share}>
+          <span className="share-symbol" aria-hidden="true">↗</span>
+          <span>{t.share}</span>
+        </button>
         <button className="binder-cover" onClick={() => setIsOpen(true)} aria-label={t.open}>
           <span className="cover-spine" aria-hidden="true">
             <span>GREED ISLAND</span>
@@ -212,6 +279,7 @@ export default function Home() {
           ))}
         </div>
         <p className="cover-caption">{t.archive}</p>
+        {shareNotice && <div className="share-notice" role="status" aria-live="polite">{shareNotice}</div>}
       </main>
     );
   }
@@ -226,17 +294,23 @@ export default function Home() {
           <strong>{t.title}</strong>
           <span>{t.subtitle}</span>
         </div>
-        <div className="language-switch" aria-label="Language">
-          {(Object.keys(languageLabels) as Language[]).map((code) => (
-            <button
-              key={code}
-              className={language === code ? "active" : ""}
-              onClick={() => setLanguage(code)}
-              aria-pressed={language === code}
-            >
-              {languageLabels[code]}
-            </button>
-          ))}
+        <div className="header-actions">
+          <button className="share-button" onClick={shareSite} aria-label={t.share}>
+            <span className="share-symbol" aria-hidden="true">↗</span>
+            <span>{t.share}</span>
+          </button>
+          <div className="language-switch" aria-label="Language">
+            {(Object.keys(languageLabels) as Language[]).map((code) => (
+              <button
+                key={code}
+                className={language === code ? "active" : ""}
+                onClick={() => setLanguage(code)}
+                aria-pressed={language === code}
+              >
+                {languageLabels[code]}
+              </button>
+            ))}
+          </div>
         </div>
       </header>
 
@@ -414,6 +488,7 @@ export default function Home() {
           </div>
         </div>
       )}
+      {shareNotice && <div className="share-notice" role="status" aria-live="polite">{shareNotice}</div>}
     </main>
   );
 }
